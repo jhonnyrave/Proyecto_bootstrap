@@ -1,0 +1,19 @@
+{
+  "name": "cursobootstrap",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto de nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonnyrave/Proyecto_bootstrap.git"
+  },
+  "author": "Jhonny Rave",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonnyrave/Proyecto_bootstrap/issues"
+  },
+  "homepage": "https://github.com/jhonnyrave/Proyecto_bootstrap#readme"
+}
